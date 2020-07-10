@@ -1,4 +1,4 @@
-# vue-game
+# three-building
 
 ## Project setup
 ```
